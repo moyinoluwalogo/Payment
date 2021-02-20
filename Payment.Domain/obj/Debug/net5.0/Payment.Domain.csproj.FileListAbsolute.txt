@@ -1,0 +1,15 @@
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.deps.json
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.runtimeconfig.json
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.runtimeconfig.dev.json
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.dll
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\bin\Debug\net5.0\ref\Payment.Domain.dll
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.pdb
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.csprojAssemblyReference.cache
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.AssemblyInfo.cs
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.dll
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\ref\Payment.Domain.dll
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.pdb
+C:\Users\Rilwan.Oshinkoya\source\repos\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.genruntimeconfig.cache
